@@ -105,7 +105,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="mailto:info@alviontravel.in"
+              href="mailto:info@alviontravels.in"
               className="block text-[var(--navy)] transition-colors hover:text-[var(--aqua)]"
             >
               <span className="mb-1 block text-[10px] uppercase tracking-[0.18em] text-[var(--ink-soft)]">
