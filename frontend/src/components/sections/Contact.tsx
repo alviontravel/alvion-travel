@@ -111,7 +111,7 @@ export default function Contact() {
               <span className="mb-1 block text-[10px] uppercase tracking-[0.18em] text-[var(--ink-soft)]">
                 Email us
               </span>
-              info@alviontravel.in
+              info@alviontravels.in
             </a>
           </div>
         </div>
