@@ -15,7 +15,7 @@ export default function Footer() {
           </nav>
           <div>
             <h2 className="eyebrow text-white/45">Contact</h2>
-            <div className="mt-5 space-y-3 text-sm text-white/65"><a href="tel:+919964855315" className="block hover:text-white">+91 9964855315</a><a href="mailto:info@alviontravel.in" className="block hover:text-white">info@alviontravel.in</a></div>
+            <div className="mt-5 space-y-3 text-sm text-white/65"><a href="tel:+919964855315" className="block hover:text-white">+91 9964855315</a><a href="mailto:info@alviontravels.in" className="block hover:text-white">info@alviontravel.in</a></div>
           </div>
           <div>
             <h2 className="eyebrow text-white/45">Social</h2>
