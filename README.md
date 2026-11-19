@@ -1,10 +1,10 @@
-# Alvion Travel
+# Alvion Travels
 
 A modern travel management website designed to showcase travel services and simplify customer enquiries. Built with Next.js and FastAPI, backed by PostgreSQL.
 
 ## Overview
 
-Alvion Travel is a full-stack travel management website featuring a responsive frontend, travel service information, an enquiry management API, PostgreSQL database integration, and email notifications.
+Alvion Travels is a full-stack travel management website featuring a responsive frontend, travel service information, an enquiry management API, PostgreSQL database integration, and email notifications.
 
 ## Features
 
@@ -227,4 +227,4 @@ Production environment variables and database credentials should be configured t
 
 All rights reserved.
 
-This project is developed for Alvion Travel. Reuse, redistribution, or commercial use requires authorization from the project owner.
+This project is developed for Alvion Travels. Reuse, redistribution, or commercial use requires authorization from the project owner.

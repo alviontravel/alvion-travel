@@ -41,7 +41,7 @@ export default function About() {
             <div className="mt-7 max-w-2xl">
 
               <p className="text-base leading-8 text-[var(--ink-soft)]">
-                At ALVION Travel Management, we believe that every journey
+                At Alvion Travels Management, we believe that every journey
                 deserves thoughtful planning, reliable support and a seamless
                 travel experience.
               </p>
@@ -145,7 +145,7 @@ export default function About() {
         {/* BRAND CLOSING STATEMENT */}
         <div className="mt-20 border-t border-[var(--line)] pt-12 text-center">
           <p className="eyebrow text-[var(--aqua)]">
-            Alvion Travel 
+            Alvion Travels 
           </p>
 
           <h3 className="font-display mt-5 text-3xl text-[var(--navy)] sm:text-5xl">

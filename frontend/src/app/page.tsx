@@ -1,7 +1,7 @@
 /**
  * Home Page
  *
- * Composes the single-page Alvion Travel landing experience
+ * Composes the single-page Alvion Travels landing experience
  * in the intended scroll order.
  */
 

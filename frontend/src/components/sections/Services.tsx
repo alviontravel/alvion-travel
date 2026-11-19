@@ -79,7 +79,7 @@ export default function Services() {
 
               <div className="absolute bottom-0 left-0 p-7 sm:p-10">
                 <p className="text-[10px] font-semibold uppercase tracking-[0.25em] text-white/75">
-                  Alvion Travel
+                  Alvion Travels
                 </p>
 
                 <h3 className="font-display mt-3 max-w-sm text-3xl leading-tight text-white sm:text-4xl">

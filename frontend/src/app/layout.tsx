@@ -10,9 +10,9 @@ import "./globals.css";
 
 // Shared metadata for the browser and search engines.
 export const metadata: Metadata = {
-  title: "Alvion Travel | Explore Beyond, beautifully planned",
+  title: "Alvion Travels | Explore Beyond, beautifully planned",
   description:
-    "Alvion Travel creates considered, memorable journeys for curious travellers around the world.",
+    "Alvion Travels creates considered, memorable journeys for curious travellers around the world.",
 };
 
 // Root HTML wrapper for all rendered content.

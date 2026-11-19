@@ -18,7 +18,7 @@ def send_enquiry_notification(enquiry):
     recipient = os.getenv("RESEND_TEST_EMAIL")
     sender = os.getenv(
         "RESEND_FROM_EMAIL",
-        "Alvion Travel <onboarding@resend.dev>"
+        "Alvion Travels <onboarding@resend.dev>"
     )
 
     if not resend.api_key:

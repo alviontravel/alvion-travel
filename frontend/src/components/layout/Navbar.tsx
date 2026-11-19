@@ -73,7 +73,7 @@ export default function Navbar() {
 					
 					<span className="flex flex-col leading-tight text-[var(--text-light)]">
 						<span className="font-display text-base font-semibold tracking-wide text-white sm:text-lg">
-							Alvion Travel
+							Alvion Travels
 						</span>
 						<span className="text-[10px] uppercase tracking-[0.22em] text-white/65 sm:text-[11px]">
 							Explore Beyond
