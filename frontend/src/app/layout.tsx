@@ -7,6 +7,7 @@
 
 import type { Metadata } from "next";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next";
 
 // Shared metadata for the browser and search engines.
 export const metadata: Metadata = {
@@ -24,7 +25,10 @@ export default function RootLayout({
   return (
     <html lang="en" className="h-full antialiased">
       {/* Application content */}
-      <body className="min-h-full">{children}</body>
+      <body className="min-h-full">
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
